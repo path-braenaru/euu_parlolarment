@@ -1,8 +1,9 @@
 # euu_parlolarment
 Fudged data explorer for EU parliamentary election results  
-## Historically mixed labelling and changing schemas prevents true utility of the tool  
-Very unlikely to be future updates to this, aside from some more basic function additions  
-The tool will fetch and locally store the datasets required for the given question  
+- Historically mixed labelling and changing schemas prevents true utility of the tool  
+- Very unlikely to be future updates to this, aside from some more basic function additions  
+- The tool will fetch and locally store the datasets required for the given question  
+- Data sourced from https://www.election-results.eu/data-sheets/  
 ## Deps
 Python 3.7+  
 argparse  
